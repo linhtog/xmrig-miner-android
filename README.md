@@ -2,13 +2,26 @@
 First, you need to download UserLAnd from the CHPlay: https://play.google.com/store/apps/details?id=tech.ula&pcampaignid=web_share
 Select Ubuntu to install.
 Then, use the following commands in sequence to install:
-1
+1,
+
     apt-get update -y
-2   
+2,
+
     apt-get upgrade -y
-3   
+3,
+
     sudo apt install ca-certificates
-4   
+4,
+
     sudo apt update -y && sudo apt install curl -y && curl https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compile.sh| bash
-5   
+5,
+
     cd && cd xmrig/build
+6,This is the command to start mining, I will take an example with Unmineable pool
+
+    ./xmrig -o rx.unmineable.com:3333 -a rx -k -u COIN:YOUR_ADDRESS.WORKER_NAME -p x pause
+
+   Replace "rx.unmineable.com:3333" with any pool you need. 
+   You must change COIN, YOURADDRESS and WORKER_NAME
+
+   OR  set it up according to the official XMRIG website : https://xmrig.com/wizard
