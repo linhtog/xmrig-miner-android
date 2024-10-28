@@ -27,5 +27,6 @@ Then, use the following commands in sequence to install:
    OR  set it up according to the official XMRIG website : https://xmrig.com/wizard
 
 
-DONATIONS  XMR: 4DSQMNzzq46N1z2pZWAVdeA6JvUL9TCB2bnBiA3ZzoqEdYJnMydt5akCa3vtmapeDsbVKGPFdNkzqTcJS8M8oyK7WGm3TmXEP4G3V9Qx3H
-           BnB: 0xab5122c4e645fbe270cb21f82e7d59c9cb6f9492
+DONATIONS  
+    XMR: 4DSQMNzzq46N1z2pZWAVdeA6JvUL9TCB2bnBiA3ZzoqEdYJnMydt5akCa3vtmapeDsbVKGPFdNkzqTcJS8M8oyK7WGm3TmXEP4G3V9Qx3H  
+    BnB: 0xab5122c4e645fbe270cb21f82e7d59c9cb6f9492
