@@ -2,6 +2,7 @@
 First, you need to download UserLAnd from the CHPlay: https://play.google.com/store/apps/details?id=tech.ula&pcampaignid=web_share
 Select Ubuntu to install.
 Then, use the following commands in sequence to install:
+
 1,
 
     apt-get update -y
@@ -25,6 +26,7 @@ Then, use the following commands in sequence to install:
    You must change COIN, YOURADDRESS and WORKER_NAME
 
    OR set it up according to the official XMRIG website : https://xmrig.com/wizard
+
 
 
 DONATIONS  
